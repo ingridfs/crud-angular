@@ -1,7 +1,7 @@
 # CRUD Angular
 
-Application develop to learn how to make a CRUD using Angular 9. 
-Using a JSON server to mock the backend enviroment.
+Application developed to learn how to make a CRUD using Angular 9. 
+Using a JSON server to mock the backend environment.
 
 The application is for register products, with features to: create, read, update and delete products.
 
