@@ -3,6 +3,8 @@
 Application develop to learn how to make a CRUD using Angular 9. 
 Using a JSON server to mock the backend enviroment.
 
+The application is for register products, with features to: create, read, update and delete products.
+
 ## How to install the Back-end
 
 ```sh
