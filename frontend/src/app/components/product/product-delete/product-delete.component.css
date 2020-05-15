@@ -1,0 +1,12 @@
+p {
+  margin-top: 15px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin: 15px 15px 0 0;
+}

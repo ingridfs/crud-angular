@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "5.89"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20 Plus",
+      "price": "5690"
+    },
+    {
+      "name": "Apontador",
+      "price": "12",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "3499.09",
+      "id": 5
+    }
+  ]
+}
